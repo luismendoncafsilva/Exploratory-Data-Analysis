@@ -1,9 +1,6 @@
 # Exploratory Data Analysis
  Exploratory data analysis focusing on customer segmentation from a marketing standpoint.
 
-
-# Exploratory Data Analysis (EDA) Project
-
 This project showcases an Exploratory Data Analysis (EDA) workflow using Python, inspired by the Ifood challenge from EBA - Statistics from Basic to Advanced course. The goal is to analyze the structure, quality, and patterns in a dataset, preparing it for further modeling and insights generation.
 
 ## Project Overview
